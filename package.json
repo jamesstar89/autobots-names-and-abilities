@@ -1,0 +1,26 @@
+{
+  "name": "autobots-names-and-abilities",
+  "version": "1.0.0",
+  "description": "Get random autobots names and abilities",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puffstream/autobots-names-and-abilities.git"
+  },
+  "keywords": [
+    "random",
+    "autobots"
+  ],
+  "author": "James Star <jamess.developer@gmail.com> (http://www.puffstream.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/puffstream/autobots-names-and-abilities/issues"
+  },
+  "homepage": "https://github.com/puffstream/autobots-names-and-abilities#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}

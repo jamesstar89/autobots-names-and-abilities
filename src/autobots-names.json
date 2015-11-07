@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Optimus Prime",
+		"ability": "leader of the autobots"
+	},
+	{
+		"name": "Iron-hide",
+		"ability": "weapons specialist"
+	},
+	{
+		"name": "Bumblebee",
+		"ability": "scout"
+	}
+]
