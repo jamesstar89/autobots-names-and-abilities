@@ -1,6 +1,6 @@
 {
   "name": "autobots-names-and-abilities",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Get random autobots names and abilities",
   "main": "src/index.js",
   "scripts": {
