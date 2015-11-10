@@ -4,8 +4,12 @@
 		"ability": "leader of the autobots"
 	},
 	{
-		"name": "Iron-hide",
+		"name": "Ironhide",
 		"ability": "weapons specialist"
+	},
+	{
+		"name": "Prowl",
+		"ability": "military strategist"
 	},
 	{
 		"name": "Bumblebee",
