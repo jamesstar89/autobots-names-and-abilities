@@ -17,3 +17,9 @@ console.log(autobotsNames.random().name);
 console.log(autobotsNames.random().name);
 console.log(autobotsNames.random().name);
 ```
+
+### Contribute
+
+Help contribute by adding a new Autobot as a feature.
+
+![alt text](screenshots/12106805_835373306576497_1883456421323774312_n.jpg "Stream software")
