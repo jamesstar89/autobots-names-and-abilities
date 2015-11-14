@@ -26,4 +26,4 @@ Help contribute by adding a new Autobot as a feature.
 
 ### Thank you
 
-To egghead for his lessons on [(]How to Write an Open Source JavaScript Library](https://egghead.io/series/how-to-write-an-open-source-javascript-library).
+To egghead for his lessons on [How to Write an Open Source JavaScript Library](https://egghead.io/series/how-to-write-an-open-source-javascript-library).
