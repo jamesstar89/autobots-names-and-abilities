@@ -22,4 +22,8 @@ console.log(autobotsNames.random().name);
 
 Help contribute by adding a new Autobot as a feature.
 
-![alt text](screenshots/12106805_835373306576497_1883456421323774312_n.jpg "Stream software")
+![alt text](screenshots/autobots-screenshot.png "Help contribute by adding a new Autobot")
+
+### Thank you
+
+To egghead for his videos on How to Write an Open Source JavaScript Library.
